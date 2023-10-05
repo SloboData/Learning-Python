@@ -22,7 +22,7 @@ If you haven't already installed Python, visit the official Python website to do
 
 ### Hello, World
 
-Create a new file named hello.py and type the following:
+Create a new file named `hello.py` and type the following:
 
 ```python
 print("Hello, World!")
